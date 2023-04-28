@@ -17,3 +17,10 @@ Here are some ideas to get you started:
 
 
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaodunas&count_private=true&include_all_commits=true&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaodunas&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+  
+
+
+<!--![Leetcode Stats](https://leetcard.jacoblin.cool/joaodunas)-->
